@@ -1,0 +1,12 @@
+2022-04-24 21:30:46,426 :INFO : test_editrofile :Rahul
+2022-04-24 21:30:46,426 :INFO : test_editrofile :rahulshettyacademy.com
+2022-04-24 21:31:01,285 :INFO : test_editrofile :Rahul
+2022-04-24 21:31:01,285 :INFO : test_editrofile :rahulshettyacademy.com
+2022-04-24 21:31:01,300 :CRITICAL : PyTest.test_logging : Critical issue.
+2022-04-24 21:32:28,184 :INFO : test_editProfile :Rahul
+2022-04-24 21:32:28,184 :INFO : test_editProfile :rahulshettyacademy.com
+2022-04-24 21:32:33,749 :INFO : test_editProfile :Rahul
+2022-04-24 21:32:33,749 :INFO : test_editProfile :rahulshettyacademy.com
+2022-04-24 21:32:33,764 :CRITICAL : PyTest.test_logging : Critical issue.
+2022-04-24 21:38:49,662 :INFO : test_editProfile :Rahul
+2022-04-24 21:38:49,662 :INFO : test_editProfile :rahulshettyacademy.com

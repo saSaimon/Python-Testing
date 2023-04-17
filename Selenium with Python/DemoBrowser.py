@@ -1,0 +1,11 @@
+from selenium import webdriver
+driver = webdriver.Edge(executable_path="C:\\msedgedriver.exe")
+driver.maximize_window()
+driver.get("https://rahulshettyacademy.com/#/index")
+print(driver.title)
+print(driver.current_url)
+driver.get("https://rahulshettyacademy.com/#/practice-project")
+driver.refresh()
+driver.minimize_window()
+driver.back()
+driver.close()
